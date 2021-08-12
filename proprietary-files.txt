@@ -57,9 +57,9 @@ etc/wifi/bcmdhd_sta.bin_4339_a0
 etc/wifi/bcmdhd_sta.bin_4354_a0
 etc/wifi/bcmdhd_sta.bin_4354_a1
 etc/wifi/cred.conf
-etc/wifi/nvram_mfg.txt_4339_a0
-etc/wifi/nvram_mfg.txt_4354_a0
-etc/wifi/nvram_mfg.txt_4354_a1
-etc/wifi/nvram_net.txt_4339_a0
-etc/wifi/nvram_net.txt_4354_a0
-etc/wifi/nvram_net.txt_4354_a1
+etc/wifi/nvram_mfg.txt_4339_a0:etc/wifi/nvram_mfg.txt_4339_a0|da1db24ecf68a53f724335c573ae23cd1336d5a0
+etc/wifi/nvram_mfg.txt_4354_a0:etc/wifi/nvram_mfg.txt_4354_a0|bd8301e4609ca32cab27c41f29da259d378840a0
+etc/wifi/nvram_mfg.txt_4354_a1:etc/wifi/nvram_mfg.txt_4354_a1|bd8301e4609ca32cab27c41f29da259d378840a0
+etc/wifi/nvram_net.txt_4339_a0:etc/wifi/nvram_net.txt_4339_a0|a4e1024ad4791e56b5898829bd47177a73f247d0
+etc/wifi/nvram_net.txt_4354_a0:etc/wifi/nvram_net.txt_4354_a0|60eca5ba52346bd316b81050a559c7d0fe73253b
+etc/wifi/nvram_net.txt_4354_a1:etc/wifi/nvram_net.txt_4354_a1|60eca5ba52346bd316b81050a559c7d0fe73253b
